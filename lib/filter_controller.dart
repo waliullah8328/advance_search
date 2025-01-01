@@ -108,7 +108,6 @@ class FilterController extends GetxController {
         break;
     }
 
-    filt
-    s.value = tempCourses;
+    filteredCourses.value = tempCourses;
   }
 }
